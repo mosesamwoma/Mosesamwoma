@@ -128,3 +128,9 @@ Passionate second-year Data Science student dedicated to transforming complex da
 <p align="center">
   <i>⚡ Turning data into insights, code into solutions ⚡</i>
 </p>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNzemxycWN4M3lyZ2N0eWdmMjJzcG56amlpdWlqOGFidW1lZ2x4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKZiqoTiQxrL7QLdyi/giphy.gif" width="350" alt="signature-gif" />
+</p>
+
+
+
