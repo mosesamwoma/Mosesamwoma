@@ -49,7 +49,8 @@ Passionate second-year Data Science student dedicated to transforming complex da
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mosesamwoma&show_icons=true&theme=radical&hide_border=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosesamwoma&theme=radical&hide_border=true" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mosesamwoma&theme=radical&hide_border=true&fire=FF0000&stroke=00FF00" width="400"/>
+
 </p>
 
 <p align="center">
@@ -131,6 +132,3 @@ Passionate second-year Data Science student dedicated to transforming complex da
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNzemxycWN4M3lyZ2N0eWdmMjJzcG56amlpdWlqOGFidW1lZ2x4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKZiqoTiQxrL7QLdyi/giphy.gif" width="350" alt="signature-gif" />
 </p>
-
-
-
