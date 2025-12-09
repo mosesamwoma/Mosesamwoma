@@ -12,7 +12,7 @@
 ## 🌟 About Me
 
 <p align="center">
-Passionate second-year Data Science student transforming complex data into actionable insights through AI and Machine Learning. I specialize in building intelligent systems, from spam detection models to predictive analytics. When I'm not coding, you'll find me strategizing over chess or creating melodies on the piano.
+Passionate second-year Data Science student transforming complex data into actionable insights through AI and Machine Learning. I specialize in building intelligent systems.When I'm not coding, you'll find me strategizing over chess or creating melodies on the piano.
 </p>
 
 ---
