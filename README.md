@@ -149,7 +149,6 @@ Passionate second-year Data Science student transforming complex data into actio
 </p>
 
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
