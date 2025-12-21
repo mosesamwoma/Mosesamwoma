@@ -110,7 +110,7 @@ Passionate second-year Data Science student transforming complex data into actio
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moses-amwoma-74735a324" target="_blank">
+  <a href="www.linkedin.com/in/moses-amwoma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/mosesamwoma" target="_blank">
