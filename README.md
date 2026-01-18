@@ -25,10 +25,9 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=mosesamwoma&theme=radical&hide_border=true)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosesamwoma&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-liart-one.vercel.app/?user=mosesamwoma&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosesamwoma&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
 </p>
 
 ---
