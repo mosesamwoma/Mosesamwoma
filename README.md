@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="data-science-animation" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ3YWExY2Q3OGVlMGZjNzJjOGI0MjQyNzQwZGY1NWYwMGM0NWJkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="data-science-animation" />
 </p>
 
 ---
