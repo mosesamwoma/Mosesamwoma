@@ -51,13 +51,6 @@
         <br />
         <small>Creative expression through music</small>
       </td>
-      <td align="center" width="200">
-        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120" alt="AI" />
-        <br />
-        <strong>🤖 AI & Robotics</strong>
-        <br />
-        <small>Exploring technological frontiers</small>
-      </td>
     </tr>
   </table>
 </p>
