@@ -23,60 +23,12 @@
 
 ---
 
-## 💻 Technical Toolkit
-
-### ⚙️ Programming Languages & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 📈 AI & Data Science Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-</p>
-
----
-
-
-
----
-
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mosesamwoma&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosesamwoma&theme=radical&hide_border=true&fire=FF0000&stroke=00FF00" width="48%"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=mosesamwoma&theme=radical&hide_border=true)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosesamwoma&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mosesamwoma&theme=redical&hide_border=true&area=true" width="48%"/>
-</p>
-
----
-
-## 🎯 Current Focus
-
-<p align="center">
-  🔭 Building ML models for real-world applications<br/>
-  🌱 Deepening knowledge in Deep Learning and NLP<br/>
-  👯 Open to collaborating on AI/ML projects<br/>
-  📚 Continuously learning and sharing knowledge
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosesamwoma&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -141,20 +93,12 @@
 
 ---
 
-## 📈 Contribution Stats
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mosesamwoma&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/mosesamwoma?tab=followers">
-    <img src="https://img.shields.io/github/followers/mosesamwoma?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  </a>
-  <img src="https://img.shields.io/github/stars/mosesamwoma?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars" />
-</p>
-
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
