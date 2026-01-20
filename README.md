@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moses Amwoma</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=600&lines=AI+Enthusiast;Data+Storyteller;Machine+Learning+Engineer;AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=600&lines=AI+Enthusiast;Data+Analyst;Data+Scientist;Data+Storyteller;Machine+Learning+Engineer;AI+Engineer" />
 </h3>
 
 <p align="center">
@@ -32,31 +32,6 @@
 
 ---
 
-## ♟️ Beyond Code
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="120" alt="Chess" />
-        <br />
-        <strong>♟️ Competitive Chess</strong>
-        <br />
-        <small>Strategic thinking & pattern recognition</small>
-      </td>
-      <td align="center" width="200">
-        <img src="https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif" width="120" alt="Piano" />
-        <br />
-        <strong>🎹 Piano Performance</strong>
-        <br />
-        <small>Creative expression through music</small>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -71,9 +46,6 @@
   </a>
   <a href="https://x.com/AmwomaMoses" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/tumbo.moses.9" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/moses_amwoma" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
