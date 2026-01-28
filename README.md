@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <i>Explore my complete portfolio with detailed project showcases and achievements</i>
+  <i>Explore my complete portfolio</i>
 </p>
 
 ---
