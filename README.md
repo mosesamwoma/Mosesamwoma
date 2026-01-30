@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moses Amwoma</h1>
+<h1 align="center">Hi👋, I'm Moses Amwoma</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=600&lines=AI+Enthusiast;Data+Analyst;Data+Scientist;Data+Storyteller;Machine+Learning+Engineer;AI+Engineer" />
 </h3>
