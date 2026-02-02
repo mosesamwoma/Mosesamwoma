@@ -55,12 +55,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mosesamwoma&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
 
