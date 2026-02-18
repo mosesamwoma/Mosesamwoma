@@ -2,7 +2,6 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=600&lines=AI+Enthusiast;Data+Analyst;Data+Scientist;Data+Storyteller;Machine+Learning+Engineer;AI+Engineer" />
 </h3>
-
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ3YWExY2Q3OGVlMGZjNzJjOGI0MjQyNzQwZGY1NWYwMGM0NWJkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="data-science-animation" />
 </p>
@@ -16,7 +15,6 @@
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
-
 <p align="center">
   <i>Explore my complete portfolio</i>
 </p>
@@ -49,6 +47,9 @@
   <a href="https://www.reddit.com/user/strong_tech" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/matmusa341/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -56,11 +57,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
-
 <p align="center">
   <i>⚡ Turning data into insights, code into solutions, ideas into reality ⚡</i>
 </p>
-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNzemxycWN4M3lyZ2N0eWdmMjJzcG56amlpdWlqOGFidW1lZ2x4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKZiqoTiQxrL7QLdyi/giphy.gif" width="350" alt="signature-gif" />
 </p>
