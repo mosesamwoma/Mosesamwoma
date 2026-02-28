@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats-liart-one.vercel.app/?user=mosesamwoma&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
@@ -63,7 +63,7 @@
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="www.linkedin.com/in/moses-amwoma" target="_blank">
@@ -92,5 +92,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
 <p align="center">
-  <i>⚡ Turning data into insights, code into solutions, ideas into reality ⚡</i>
+  <i> Turning data into insights, code into solutions, ideas into reality </i>
 </p>
