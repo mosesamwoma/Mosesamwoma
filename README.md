@@ -8,7 +8,7 @@
 
 ---
 
-## 🌐 Portfolio Website
+## Portfolio Website
 
 <p align="center">
   <a href="https://iammoses.vercel.app/" target="_blank">
