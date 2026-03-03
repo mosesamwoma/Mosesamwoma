@@ -8,19 +8,6 @@
 
 ---
 
-## Portfolio Website
-
-<p align="center">
-  <a href="https://iammoses.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge&logoColor=white" alt="Portfolio Website" />
-  </a>
-</p>
-<p align="center">
-  <i>Explore my complete portfolio</i>
-</p>
-
----
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="55" /></a>  
