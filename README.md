@@ -6,6 +6,8 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ3YWExY2Q3OGVlMGZjNzJjOGI0MjQyNzQwZGY1NWYwMGM0NWJkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="data-science-animation" />
 </p>
 
+<!--
+
 ---
 ## Languages and Tools  
 <div align="center">  
@@ -37,6 +39,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="55" /></a>  
 <a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" height="55" /></a>
 </div>
+-->
 
 <br/> 
 
